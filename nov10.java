@@ -25,6 +25,11 @@ public class nov10 {
 		// Print ASCII value : 
 		System.out.println("The ASCII value for given Character is : " + num);
 		
+		
+                 // 		
+		
+		System.out.println(" ***********")
+                // 		
 		//  float value : 
 		
 		float r = 1004.115478f;
